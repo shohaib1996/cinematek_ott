@@ -1,0 +1,602 @@
+[
+    {
+      
+      "name": "Midnight Mirage",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGUyMzUyZWYtMzg1Ni00YTFlLTk3NDEtY2M5ZTZiMzg3MDM2XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+      "url": "https://www.youtube.com/embed/ZPy1X6aznw8?si=BGyYdzN5W8HoC95b",
+      "rating": 4,
+      "starring": ["Brad Pitt", "Charlize Theron", "Idris Elba"],
+      "plot": "A mysterious thriller unfolding in the dark alleys of a city, where nothing is as it seems.",
+      "genre": "Action"
+    },
+    {
+      
+      "name": "Eternal Echo",
+      "thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/1bc89808746b09741a4fedc22d8b33a0f80651c46ac62c575911b2126833fe27.jpg",
+      "url": "https://www.youtube.com/embed/rkGJNcf3BaA?si=D8Q4RKRJWwWRhJqV",
+      "rating": 4,
+      "starring": ["Scarlett Johansson", "Chris Evans", "Morgan Freeman"],
+      "plot": "Love transcends time in this poignant story of a romance that echoes through the ages.",
+      "genre": "Romance"
+    },
+    {
+      
+      "name": "Whirlwind Whispers",
+      "thumbnail": "https://i0.wp.com/natashawoodcraft.com/wp-content/uploads/2023/01/977FD2EB-A6C8-45FD-BF47-30E1900A2FD8.jpeg?fit=1656%2C2557&ssl=1",
+      "url": "https://www.youtube.com/embed/II46WjXfRpc?si=sVYH3UxCAJeHgWGD",
+      "rating": 3,
+      "starring": ["Tom Hanks", "Jennifer Lawrence", "Ryan Reynolds"],
+      "plot": "A gripping drama about the secrets and lies that bind and tear apart a close-knit community.",
+      "genre": "Comedy"
+    },
+    {
+      
+      "name": "Spectral Symphony",
+      "thumbnail": "https://bingeddata.s3.amazonaws.com/uploads/2020/11/spectral.jpg",
+      "url": "https://www.youtube.com/embed/l0ke37USelY?si=WA1NN8Q8WxR4osv0",
+      "rating": 3,
+      "starring": ["Leonardo DiCaprio", "Anne Hathaway", "Michael Fassbender"],
+      "plot": "An intense psychological thriller exploring the boundaries between reality and illusion.",
+      "genre": "Horror"
+    },
+    {
+      
+      "name": "Moonlit Melody",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2732472601180911ff89445cbc8",
+      "url": "https://www.youtube.com/embed/l0ke37USelY?si=WA1NN8Q8WxR4osv0",
+      "rating": 3,
+      "starring": ["Emma Stone", "Javier Bardem", "Cate Blanchett"],
+      "plot": "A musical journey through time as two strangers find solace in the power of music.",
+      "genre": "Animation"
+    },
+    {
+      
+      "name": "Rogue Realms",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWM5MTQ3NDMtNGFiMS00Y2E5LWE2ZTUtNzM5MTcyZjM3ODRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+      "url": "https://www.youtube.com/embed/53dm_TKwv6s?si=DoI30OpWjD8lIydS",
+      "rating": 3,
+      "starring": ["Robert Downey Jr.", "Zendaya", "Mark Ruffalo"],
+      "plot": "A fantasy adventure where mythical creatures and ancient prophecies shape the destiny of a young hero.",
+      "genre": "Action"
+    },
+    {
+      
+      "name": "Shattered Silence",
+      "thumbnail": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9008681_p_v10_aa.jpg",
+      "url": "https://www.youtube.com/embed/53dm_TKwv6s?si=DoI30OpWjD8lIydS",
+      "rating": 3,
+      "starring": ["Johnny Depp", "Natalie Portman", "Keanu Reeves"],
+      "plot": "A crime thriller unfolding in the gritty underworld of a city, where justice is elusive and betrayal is inevitable.",
+      "genre": "Comedy"
+    },
+    {
+      
+      "name": "Starlight Serenade",
+      "thumbnail": "https://static.toiimg.com/photo/msid-87360866/87360866.jpg?491524",
+      "url": "https://www.youtube.com/embed/PtOrfve9MUs?si=SZ9OP9iM43xFsr75",
+      "rating": 5,
+      "starring": ["Bradley Cooper", "Lady Gaga", "Tom Hardy"],
+      "plot": "A tale of passion and dreams as two artists navigate the challenges of fame, love, and self-discovery.",
+      "genre": "Romance"
+    },
+    {
+      
+      "name": "Mystic Mosaic",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjQwZDIyNjAtZGQxMC00OTUwLWFiOWYtNzg2NDc5Mjc1MDQ5XkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_FMjpg_UX1000_.jpg",
+      "url": "https://www.youtube.com/embed/_J5UOvt1aLM?si=DL3pR4Gk0d-j9_An",
+      "rating": 5,
+      "starring": ["Angelina Jolie", "Matthew McConaughey", "Viola Davis"],
+      "plot": "An exploration of mysticism and the unknown, where a group of individuals is drawn together by a shared destiny.",
+      "genre": "Comedy"
+    },
+    {
+      
+      "name": "Whispering Winds",
+      "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/comedy-movies-on-netflix-day-shift-1666969531.jpeg",
+      "url": "https://www.youtube.com/embed/_J5UOvt1aLM?si=DL3pR4Gk0d-j9_An",
+      "rating": 5,
+      "starring": ["Denzel Washington", "Julia Roberts", "Chris Pratt"],
+      "plot": "A heartwarming family drama set against the backdrop of a small town, where community bonds are tested and strengthened.",
+      "genre": "Romance"
+    },
+    {
+      
+      "name": "Infinite Illusion",
+      "thumbnail": "https://c8.alamy.com/comp/PMB8P8/moms-night-out-the-new-family-comedy-from-sony-affirm-and-provident-films-poster-PMB8P8.jpg",
+      "url": "https://www.youtube.com/embed/LWZFrDd9xi4?si=0wwlq5MI1nvqUP8F",
+      "rating": 5,
+      "starring": ["Ryan Gosling", "Rachel McAdams", "Tom Holland"],
+      "plot": "A mind-bending science fiction tale exploring the concept of parallel universes and the choices that shape our destinies.",
+      "genre": "Horror"
+    },
+    {
+      
+      "name": "Celestial Chronicles",
+      "thumbnail": "https://lataeya.files.wordpress.com/2012/05/frontswept.jpg",
+      "url": "https://www.youtube.com/embed/Y7zQbpYToNs?si=YualHlc68loUvFD_",
+      "rating": 4.5,
+      "starring": ["Nicole Kidman", "Chris Pine", "Idris Elba"],
+      "plot": "An epic space opera that unfolds across galaxies, where heroes rise and fall in the battle against cosmic forces.",
+      "genre": "Action"
+    },
+    {
+      
+      "name": "Harmony Heights",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTVhMzYxNjgtYzYwOC00MGIwLWJmZGEtMjgwMzgxMWUwNmRhXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
+      "url": "https://www.youtube.com/embed/Y7zQbpYToNs?si=YualHlc68loUvFD_",
+      "rating": 3.5,
+      "starring": ["Matthew Damon", "Emma Watson", "Samuel L. Jackson"],
+      "plot": "A lighthearted comedy about the quirky residents of a small town, where laughter and chaos go hand in hand.",
+      "genre": "Comedy"
+    },
+    {
+      
+      "name": "Silent Shadows",
+      "thumbnail": "https://webneel.com/daily/sites/default/files/images/daily/03-2018/3-poster-stolen-princess-animation-movies-2018.jpg",
+      "url": "https://www.youtube.com/embed/YOnZfWPMnBQ?si=aEWmBwHdmzhuC-pu",
+      "rating": 3.5,
+      "starring": ["Meryl Streep", "George Clooney", "Zendaya"],
+      "plot": "A suspenseful thriller where past secrets come back to haunt a group of friends, leading to a race against time.",
+      "genre": "Animation"
+    },
+    {
+      
+      "name": "Crimson Carnival",
+      "thumbnail": "https://lumiere-a.akamaihd.net/v1/images/p_disney_strangeworld_1260_40682d4f.jpeg?region=0%2C0%2C540%2C810",
+      "url": "https://www.youtube.com/embed/YOnZfWPMnBQ?si=aEWmBwHdmzhuC-pu",
+      "rating": 3.5,
+      "starring": ["Will Smith", "Charlize Theron", "Benedict Cumberbatch"],
+      "plot": "An enigmatic journey through a carnival of illusions, where reality blurs with fantasy, and nothing is as it appears.",
+      "genre": "Animation"
+    },
+    {
+      
+      "name": "Midnight Mirage",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGUyMzUyZWYtMzg1Ni00YTFlLTk3NDEtY2M5ZTZiMzg3MDM2XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+      "url": "https://www.youtube.com/embed/ZPy1X6aznw8?si=BGyYdzN5W8HoC95b",
+      "rating": 3.5,
+      "starring": ["Brad Pitt", "Charlize Theron", "Idris Elba"],
+      "plot": "A mysterious thriller unfolding in the dark alleys of a city, where nothing is as it seems.",
+      "genre": "Action"
+    },
+    {
+      
+      "name": "Eternal Echo",
+      "thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/1bc89808746b09741a4fedc22d8b33a0f80651c46ac62c575911b2126833fe27.jpg",
+      "url": "https://www.youtube.com/embed/rkGJNcf3BaA?si=D8Q4RKRJWwWRhJqV",
+      "rating": 3.5,
+      "starring": ["Scarlett Johansson", "Chris Evans", "Morgan Freeman"],
+      "plot": "Love transcends time in this poignant story of a romance that echoes through the ages.",
+      "genre": "Romance"
+    },
+    {
+      
+      "name": "Whirlwind Whispers",
+      "thumbnail": "https://i0.wp.com/natashawoodcraft.com/wp-content/uploads/2023/01/977FD2EB-A6C8-45FD-BF47-30E1900A2FD8.jpeg?fit=1656%2C2557&ssl=1",
+      "url": "https://www.youtube.com/embed/II46WjXfRpc?si=sVYH3UxCAJeHgWGD",
+      "rating": 3.5,
+      "starring": ["Tom Hanks", "Jennifer Lawrence", "Ryan Reynolds"],
+      "plot": "A gripping drama about the secrets and lies that bind and tear apart a close-knit community.",
+      "genre": "Comedy"
+    },
+    {
+      
+      "name": "Spectral Symphony",
+      "thumbnail": "https://bingeddata.s3.amazonaws.com/uploads/2020/11/spectral.jpg",
+      "url": "https://www.youtube.com/embed/l0ke37USelY?si=WA1NN8Q8WxR4osv0",
+      "rating": 3.5,
+      "starring": ["Leonardo DiCaprio", "Anne Hathaway", "Michael Fassbender"],
+      "plot": "An intense psychological thriller exploring the boundaries between reality and illusion.",
+      "genre": "Horror"
+    },
+    {
+      
+      "name": "Moonlit Melody",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2732472601180911ff89445cbc8",
+      "url": "https://www.youtube.com/embed/l0ke37USelY?si=WA1NN8Q8WxR4osv0",
+      "rating": 3.5,
+      "starring": ["Emma Stone", "Javier Bardem", "Cate Blanchett"],
+      "plot": "A musical journey through time as two strangers find solace in the power of music.",
+      "genre": "Animation"
+    },
+    {
+      
+      "name": "Rogue Realms",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWM5MTQ3NDMtNGFiMS00Y2E5LWE2ZTUtNzM5MTcyZjM3ODRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+      "url": "https://www.youtube.com/embed/53dm_TKwv6s?si=DoI30OpWjD8lIydS",
+      "rating": 3.5,
+      "starring": ["Robert Downey Jr.", "Zendaya", "Mark Ruffalo"],
+      "plot": "A fantasy adventure where mythical creatures and ancient prophecies shape the destiny of a young hero.",
+      "genre": "Action"
+    },
+    {
+      
+      "name": "Shattered Silence",
+      "thumbnail": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9008681_p_v10_aa.jpg",
+      "url": "https://www.youtube.com/embed/53dm_TKwv6s?si=DoI30OpWjD8lIydS",
+      "rating": 4.5,
+      "starring": ["Johnny Depp", "Natalie Portman", "Keanu Reeves"],
+      "plot": "A crime thriller unfolding in the gritty underworld of a city, where justice is elusive and betrayal is inevitable.",
+      "genre": "Comedy"
+    },
+    {
+      
+      "name": "Starlight Serenade",
+      "thumbnail": "https://static.toiimg.com/photo/msid-87360866/87360866.jpg?491524",
+      "url": "https://www.youtube.com/embed/PtOrfve9MUs?si=SZ9OP9iM43xFsr75",
+      "rating": 4.5,
+      "starring": ["Bradley Cooper", "Lady Gaga", "Tom Hardy"],
+      "plot": "A tale of passion and dreams as two artists navigate the challenges of fame, love, and self-discovery.",
+      "genre": "Romance"
+    },
+    {
+      
+      "name": "Mystic Mosaic",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjQwZDIyNjAtZGQxMC00OTUwLWFiOWYtNzg2NDc5Mjc1MDQ5XkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_FMjpg_UX1000_.jpg",
+      "url": "https://www.youtube.com/embed/_J5UOvt1aLM?si=DL3pR4Gk0d-j9_An",
+      "rating": 4.5,
+      "starring": ["Angelina Jolie", "Matthew McConaughey", "Viola Davis"],
+      "plot": "An exploration of mysticism and the unknown, where a group of individuals is drawn together by a shared destiny.",
+      "genre": "Comedy"
+    },
+    {
+      
+      "name": "Whispering Winds",
+      "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/comedy-movies-on-netflix-day-shift-1666969531.jpeg",
+      "url": "https://www.youtube.com/embed/_J5UOvt1aLM?si=DL3pR4Gk0d-j9_An",
+      "rating": 4.5,
+      "starring": ["Denzel Washington", "Julia Roberts", "Chris Pratt"],
+      "plot": "A heartwarming family drama set against the backdrop of a small town, where community bonds are tested and strengthened.",
+      "genre": "Romance"
+    },
+    {
+      
+      "name": "Infinite Illusion",
+      "thumbnail": "https://c8.alamy.com/comp/PMB8P8/moms-night-out-the-new-family-comedy-from-sony-affirm-and-provident-films-poster-PMB8P8.jpg",
+      "url": "https://www.youtube.com/embed/LWZFrDd9xi4?si=0wwlq5MI1nvqUP8F",
+      "rating": 4.5,
+      "starring": ["Ryan Gosling", "Rachel McAdams", "Tom Holland"],
+      "plot": "A mind-bending science fiction tale exploring the concept of parallel universes and the choices that shape our destinies.",
+      "genre": "Horror"
+    },
+    {
+      
+      "name": "Celestial Chronicles",
+      "thumbnail": "https://lataeya.files.wordpress.com/2012/05/frontswept.jpg",
+      "url": "https://www.youtube.com/embed/Y7zQbpYToNs?si=YualHlc68loUvFD_",
+      "rating": 4.5,
+      "starring": ["Nicole Kidman", "Chris Pine", "Idris Elba"],
+      "plot": "An epic space opera that unfolds across galaxies, where heroes rise and fall in the battle against cosmic forces.",
+      "genre": "Action"
+    },
+    {
+      
+      "name": "Harmony Heights",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTVhMzYxNjgtYzYwOC00MGIwLWJmZGEtMjgwMzgxMWUwNmRhXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
+      "url": "https://www.youtube.com/embed/Y7zQbpYToNs?si=YualHlc68loUvFD_",
+      "rating": 4.5,
+      "starring": ["Matthew Damon", "Emma Watson", "Samuel L. Jackson"],
+      "plot": "A lighthearted comedy about the quirky residents of a small town, where laughter and chaos go hand in hand.",
+      "genre": "Comedy"
+    },
+    {
+      
+      "name": "Silent Shadows",
+      "thumbnail": "https://webneel.com/daily/sites/default/files/images/daily/03-2018/3-poster-stolen-princess-animation-movies-2018.jpg",
+      "url": "https://www.youtube.com/embed/YOnZfWPMnBQ?si=aEWmBwHdmzhuC-pu",
+      "rating": 4.5,
+      "starring": ["Meryl Streep", "George Clooney", "Zendaya"],
+      "plot": "A suspenseful thriller where past secrets come back to haunt a group of friends, leading to a race against time.",
+      "genre": "Animation"
+    },
+    {
+      
+      "name": "Crimson Carnival",
+      "thumbnail": "https://lumiere-a.akamaihd.net/v1/images/p_disney_strangeworld_1260_40682d4f.jpeg?region=0%2C0%2C540%2C810",
+      "url": "https://www.youtube.com/embed/YOnZfWPMnBQ?si=aEWmBwHdmzhuC-pu",
+      "rating": 4.5,
+      "starring": ["Will Smith", "Charlize Theron", "Benedict Cumberbatch"],
+      "plot": "An enigmatic journey through a carnival of illusions, where reality blurs with fantasy, and nothing is as it appears.",
+      "genre": "Animation"
+    },
+    {
+      
+      "name": "Midnight Mirage",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGUyMzUyZWYtMzg1Ni00YTFlLTk3NDEtY2M5ZTZiMzg3MDM2XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+      "url": "https://www.youtube.com/embed/ZPy1X6aznw8?si=BGyYdzN5W8HoC95b",
+      "rating": 4.5,
+      "starring": ["Brad Pitt", "Charlize Theron", "Idris Elba"],
+      "plot": "A mysterious thriller unfolding in the dark alleys of a city, where nothing is as it seems.",
+      "genre": "Action"
+    },
+    {
+      
+      "name": "Eternal Echo",
+      "thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/1bc89808746b09741a4fedc22d8b33a0f80651c46ac62c575911b2126833fe27.jpg",
+      "url": "https://www.youtube.com/embed/rkGJNcf3BaA?si=D8Q4RKRJWwWRhJqV",
+      "rating": 4.5,
+      "starring": ["Scarlett Johansson", "Chris Evans", "Morgan Freeman"],
+      "plot": "Love transcends time in this poignant story of a romance that echoes through the ages.",
+      "genre": "Romance"
+    },
+    {
+      
+      "name": "Whirlwind Whispers",
+      "thumbnail": "https://i0.wp.com/natashawoodcraft.com/wp-content/uploads/2023/01/977FD2EB-A6C8-45FD-BF47-30E1900A2FD8.jpeg?fit=1656%2C2557&ssl=1",
+      "url": "https://www.youtube.com/embed/II46WjXfRpc?si=sVYH3UxCAJeHgWGD",
+      "rating": 4.5,
+      "starring": ["Tom Hanks", "Jennifer Lawrence", "Ryan Reynolds"],
+      "plot": "A gripping drama about the secrets and lies that bind and tear apart a close-knit community.",
+      "genre": "Comedy"
+    },
+    {
+      
+      "name": "Spectral Symphony",
+      "thumbnail": "https://bingeddata.s3.amazonaws.com/uploads/2020/11/spectral.jpg",
+      "url": "https://www.youtube.com/embed/l0ke37USelY?si=WA1NN8Q8WxR4osv0",
+      "rating": 4.5,
+      "starring": ["Leonardo DiCaprio", "Anne Hathaway", "Michael Fassbender"],
+      "plot": "An intense psychological thriller exploring the boundaries between reality and illusion.",
+      "genre": "Horror"
+    },
+    {
+      
+      "name": "Moonlit Melody",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2732472601180911ff89445cbc8",
+      "url": "https://www.youtube.com/embed/l0ke37USelY?si=WA1NN8Q8WxR4osv0",
+      "rating": 4.5,
+      "starring": ["Emma Stone", "Javier Bardem", "Cate Blanchett"],
+      "plot": "A musical journey through time as two strangers find solace in the power of music.",
+      "genre": "Animation"
+    },
+    {
+      
+      "name": "Rogue Realms",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWM5MTQ3NDMtNGFiMS00Y2E5LWE2ZTUtNzM5MTcyZjM3ODRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+      "url": "https://www.youtube.com/embed/53dm_TKwv6s?si=DoI30OpWjD8lIydS",
+      "rating": 4.5,
+      "starring": ["Robert Downey Jr.", "Zendaya", "Mark Ruffalo"],
+      "plot": "A fantasy adventure where mythical creatures and ancient prophecies shape the destiny of a young hero.",
+      "genre": "Action"
+    },
+    {
+      
+      "name": "Shattered Silence",
+      "thumbnail": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9008681_p_v10_aa.jpg",
+      "url": "https://www.youtube.com/embed/53dm_TKwv6s?si=DoI30OpWjD8lIydS",
+      "rating": 4.5,
+      "starring": ["Johnny Depp", "Natalie Portman", "Keanu Reeves"],
+      "plot": "A crime thriller unfolding in the gritty underworld of a city, where justice is elusive and betrayal is inevitable.",
+      "genre": "Comedy"
+    },
+    {
+      
+      "name": "Starlight Serenade",
+      "thumbnail": "https://static.toiimg.com/photo/msid-87360866/87360866.jpg?491524",
+      "url": "https://www.youtube.com/embed/PtOrfve9MUs?si=SZ9OP9iM43xFsr75",
+      "rating": 4.5,
+      "starring": ["Bradley Cooper", "Lady Gaga", "Tom Hardy"],
+      "plot": "A tale of passion and dreams as two artists navigate the challenges of fame, love, and self-discovery.",
+      "genre": "Romance"
+    },
+    {
+      
+      "name": "Mystic Mosaic",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjQwZDIyNjAtZGQxMC00OTUwLWFiOWYtNzg2NDc5Mjc1MDQ5XkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_FMjpg_UX1000_.jpg",
+      "url": "https://www.youtube.com/embed/_J5UOvt1aLM?si=DL3pR4Gk0d-j9_An",
+      "rating": 4.5,
+      "starring": ["Angelina Jolie", "Matthew McConaughey", "Viola Davis"],
+      "plot": "An exploration of mysticism and the unknown, where a group of individuals is drawn together by a shared destiny.",
+      "genre": "Comedy"
+    },
+    {
+      
+      "name": "Whispering Winds",
+      "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/comedy-movies-on-netflix-day-shift-1666969531.jpeg",
+      "url": "https://www.youtube.com/embed/_J5UOvt1aLM?si=DL3pR4Gk0d-j9_An",
+      "rating": 4.5,
+      "starring": ["Denzel Washington", "Julia Roberts", "Chris Pratt"],
+      "plot": "A heartwarming family drama set against the backdrop of a small town, where community bonds are tested and strengthened.",
+      "genre": "Romance"
+    },
+    {
+      
+      "name": "Infinite Illusion",
+      "thumbnail": "https://c8.alamy.com/comp/PMB8P8/moms-night-out-the-new-family-comedy-from-sony-affirm-and-provident-films-poster-PMB8P8.jpg",
+      "url": "https://www.youtube.com/embed/LWZFrDd9xi4?si=0wwlq5MI1nvqUP8F",
+      "rating": 4.5,
+      "starring": ["Ryan Gosling", "Rachel McAdams", "Tom Holland"],
+      "plot": "A mind-bending science fiction tale exploring the concept of parallel universes and the choices that shape our destinies.",
+      "genre": "Horror"
+    },
+    {
+      
+      "name": "Celestial Chronicles",
+      "thumbnail": "https://lataeya.files.wordpress.com/2012/05/frontswept.jpg",
+      "url": "https://www.youtube.com/embed/Y7zQbpYToNs?si=YualHlc68loUvFD_",
+      "rating": 4.5,
+      "starring": ["Nicole Kidman", "Chris Pine", "Idris Elba"],
+      "plot": "An epic space opera that unfolds across galaxies, where heroes rise and fall in the battle against cosmic forces.",
+      "genre": "Action"
+    },
+    {
+      
+      "name": "Harmony Heights",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTVhMzYxNjgtYzYwOC00MGIwLWJmZGEtMjgwMzgxMWUwNmRhXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
+      "url": "https://www.youtube.com/embed/Y7zQbpYToNs?si=YualHlc68loUvFD_",
+      "rating": 4.5,
+      "starring": ["Matthew Damon", "Emma Watson", "Samuel L. Jackson"],
+      "plot": "A lighthearted comedy about the quirky residents of a small town, where laughter and chaos go hand in hand.",
+      "genre": "Comedy"
+    },
+    {
+      
+      "name": "Silent Shadows",
+      "thumbnail": "https://webneel.com/daily/sites/default/files/images/daily/03-2018/3-poster-stolen-princess-animation-movies-2018.jpg",
+      "url": "https://www.youtube.com/embed/YOnZfWPMnBQ?si=aEWmBwHdmzhuC-pu",
+      "rating": 4.5,
+      "starring": ["Meryl Streep", "George Clooney", "Zendaya"],
+      "plot": "A suspenseful thriller where past secrets come back to haunt a group of friends, leading to a race against time.",
+      "genre": "Animation"
+    },
+    {
+      
+      "name": "Crimson Carnival",
+      "thumbnail": "https://lumiere-a.akamaihd.net/v1/images/p_disney_strangeworld_1260_40682d4f.jpeg?region=0%2C0%2C540%2C810",
+      "url": "https://www.youtube.com/embed/YOnZfWPMnBQ?si=aEWmBwHdmzhuC-pu",
+      "rating": 4.5,
+      "starring": ["Will Smith", "Charlize Theron", "Benedict Cumberbatch"],
+      "plot": "An enigmatic journey through a carnival of illusions, where reality blurs with fantasy, and nothing is as it appears.",
+      "genre": "Animation"
+    },
+    {
+      
+      "name": "Midnight Mirage",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGUyMzUyZWYtMzg1Ni00YTFlLTk3NDEtY2M5ZTZiMzg3MDM2XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+      "url": "https://www.youtube.com/embed/ZPy1X6aznw8?si=BGyYdzN5W8HoC95b",
+      "rating": 4.5,
+      "starring": ["Brad Pitt", "Charlize Theron", "Idris Elba"],
+      "plot": "A mysterious thriller unfolding in the dark alleys of a city, where nothing is as it seems.",
+      "genre": "Action"
+    },
+    {
+      
+      "name": "Eternal Echo",
+      "thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/1bc89808746b09741a4fedc22d8b33a0f80651c46ac62c575911b2126833fe27.jpg",
+      "url": "https://www.youtube.com/embed/rkGJNcf3BaA?si=D8Q4RKRJWwWRhJqV",
+      "rating": 4.5,
+      "starring": ["Scarlett Johansson", "Chris Evans", "Morgan Freeman"],
+      "plot": "Love transcends time in this poignant story of a romance that echoes through the ages.",
+      "genre": "Romance"
+    },
+    {
+      
+      "name": "Whirlwind Whispers",
+      "thumbnail": "https://i0.wp.com/natashawoodcraft.com/wp-content/uploads/2023/01/977FD2EB-A6C8-45FD-BF47-30E1900A2FD8.jpeg?fit=1656%2C2557&ssl=1",
+      "url": "https://www.youtube.com/embed/II46WjXfRpc?si=sVYH3UxCAJeHgWGD",
+      "rating": 4.5,
+      "starring": ["Tom Hanks", "Jennifer Lawrence", "Ryan Reynolds"],
+      "plot": "A gripping drama about the secrets and lies that bind and tear apart a close-knit community.",
+      "genre": "Comedy"
+    },
+    {
+      
+      "name": "Spectral Symphony",
+      "thumbnail": "https://bingeddata.s3.amazonaws.com/uploads/2020/11/spectral.jpg",
+      "url": "https://www.youtube.com/embed/l0ke37USelY?si=WA1NN8Q8WxR4osv0",
+      "rating": 4.5,
+      "starring": ["Leonardo DiCaprio", "Anne Hathaway", "Michael Fassbender"],
+      "plot": "An intense psychological thriller exploring the boundaries between reality and illusion.",
+      "genre": "Horror"
+    },
+    {
+      
+      "name": "Moonlit Melody",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2732472601180911ff89445cbc8",
+      "url": "https://www.youtube.com/embed/l0ke37USelY?si=WA1NN8Q8WxR4osv0",
+      "rating": 4.5,
+      "starring": ["Emma Stone", "Javier Bardem", "Cate Blanchett"],
+      "plot": "A musical journey through time as two strangers find solace in the power of music.",
+      "genre": "Animation"
+    },
+    {
+      
+      "name": "Rogue Realms",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWM5MTQ3NDMtNGFiMS00Y2E5LWE2ZTUtNzM5MTcyZjM3ODRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+      "url": "https://www.youtube.com/embed/53dm_TKwv6s?si=DoI30OpWjD8lIydS",
+      "rating": 4.5,
+      "starring": ["Robert Downey Jr.", "Zendaya", "Mark Ruffalo"],
+      "plot": "A fantasy adventure where mythical creatures and ancient prophecies shape the destiny of a young hero.",
+      "genre": "Action"
+    },
+    {
+      
+      "name": "Shattered Silence",
+      "thumbnail": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9008681_p_v10_aa.jpg",
+      "url": "https://www.youtube.com/embed/53dm_TKwv6s?si=DoI30OpWjD8lIydS",
+      "rating": 4.5,
+      "starring": ["Johnny Depp", "Natalie Portman", "Keanu Reeves"],
+      "plot": "A crime thriller unfolding in the gritty underworld of a city, where justice is elusive and betrayal is inevitable.",
+      "genre": "Comedy"
+    },
+    {
+      
+      "name": "Starlight Serenade",
+      "thumbnail": "https://static.toiimg.com/photo/msid-87360866/87360866.jpg?491524",
+      "url": "https://www.youtube.com/embed/PtOrfve9MUs?si=SZ9OP9iM43xFsr75",
+      "rating": 4.5,
+      "starring": ["Bradley Cooper", "Lady Gaga", "Tom Hardy"],
+      "plot": "A tale of passion and dreams as two artists navigate the challenges of fame, love, and self-discovery.",
+      "genre": "Romance"
+    },
+    {
+      
+      "name": "Mystic Mosaic",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjQwZDIyNjAtZGQxMC00OTUwLWFiOWYtNzg2NDc5Mjc1MDQ5XkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_FMjpg_UX1000_.jpg",
+      "url": "https://www.youtube.com/embed/_J5UOvt1aLM?si=DL3pR4Gk0d-j9_An",
+      "rating": 4.5,
+      "starring": ["Angelina Jolie", "Matthew McConaughey", "Viola Davis"],
+      "plot": "An exploration of mysticism and the unknown, where a group of individuals is drawn together by a shared destiny.",
+      "genre": "Comedy"
+    },
+    {
+      
+      "name": "Whispering Winds",
+      "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/comedy-movies-on-netflix-day-shift-1666969531.jpeg",
+      "url": "https://www.youtube.com/embed/_J5UOvt1aLM?si=DL3pR4Gk0d-j9_An",
+      "rating": 4.5,
+      "starring": ["Denzel Washington", "Julia Roberts", "Chris Pratt"],
+      "plot": "A heartwarming family drama set against the backdrop of a small town, where community bonds are tested and strengthened.",
+      "genre": "Romance"
+    },
+    {
+      
+      "name": "Infinite Illusion",
+      "thumbnail": "https://c8.alamy.com/comp/PMB8P8/moms-night-out-the-new-family-comedy-from-sony-affirm-and-provident-films-poster-PMB8P8.jpg",
+      "url": "https://www.youtube.com/embed/LWZFrDd9xi4?si=0wwlq5MI1nvqUP8F",
+      "rating": 4.5,
+      "starring": ["Ryan Gosling", "Rachel McAdams", "Tom Holland"],
+      "plot": "A mind-bending science fiction tale exploring the concept of parallel universes and the choices that shape our destinies.",
+      "genre": "Horror"
+    },
+    {
+      
+      "name": "Celestial Chronicles",
+      "thumbnail": "https://lataeya.files.wordpress.com/2012/05/frontswept.jpg",
+      "url": "https://www.youtube.com/embed/Y7zQbpYToNs?si=YualHlc68loUvFD_",
+      "rating": 4.5,
+      "starring": ["Nicole Kidman", "Chris Pine", "Idris Elba"],
+      "plot": "An epic space opera that unfolds across galaxies, where heroes rise and fall in the battle against cosmic forces.",
+      "genre": "Action"
+    },
+    {
+      
+      "name": "Harmony Heights",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTVhMzYxNjgtYzYwOC00MGIwLWJmZGEtMjgwMzgxMWUwNmRhXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
+      "url": "https://www.youtube.com/embed/Y7zQbpYToNs?si=YualHlc68loUvFD_",
+      "rating": 4.5,
+      "starring": ["Matthew Damon", "Emma Watson", "Samuel L. Jackson"],
+      "plot": "A lighthearted comedy about the quirky residents of a small town, where laughter and chaos go hand in hand.",
+      "genre": "Comedy"
+    },
+    {
+      
+      "name": "Silent Shadows",
+      "thumbnail": "https://webneel.com/daily/sites/default/files/images/daily/03-2018/3-poster-stolen-princess-animation-movies-2018.jpg",
+      "url": "https://www.youtube.com/embed/YOnZfWPMnBQ?si=aEWmBwHdmzhuC-pu",
+      "rating": 4.5,
+      "starring": ["Meryl Streep", "George Clooney", "Zendaya"],
+      "plot": "A suspenseful thriller where past secrets come back to haunt a group of friends, leading to a race against time.",
+      "genre": "Animation"
+    },
+    {
+      
+      "name": "Crimson Carnival",
+      "thumbnail": "https://lumiere-a.akamaihd.net/v1/images/p_disney_strangeworld_1260_40682d4f.jpeg?region=0%2C0%2C540%2C810",
+      "url": "https://www.youtube.com/embed/YOnZfWPMnBQ?si=aEWmBwHdmzhuC-pu",
+      "rating": 4,
+      "starring": ["Will Smith", "Charlize Theron", "Benedict Cumberbatch"],
+      "plot": "An enigmatic journey through a carnival of illusions, where reality blurs with fantasy, and nothing is as it appears.",
+      "genre": "Animation"
+    }
+  ]

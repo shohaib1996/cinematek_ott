@@ -1,5 +1,11 @@
 import { Inter } from 'next/font/google'
 import './globals.css'
+import Navbar from '@/shared/Navbar/Navbar'
+import Footer from '@/shared/Footer/Footer'
+import TanstackQueryProvider from './TanstackQueryProvider'
+
+
+
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -9,9 +15,18 @@ export const metadata = {
 }
 
 export default function RootLayout({ children }) {
+
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+        <Navbar></Navbar>
+        <div className='min-h-screen bg-gray-600 text-white'>
+          <TanstackQueryProvider>
+            {children}
+          </TanstackQueryProvider>
+        </div>
+        <Footer></Footer>
+      </body>
     </html>
   )
 }
